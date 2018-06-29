@@ -1,0 +1,39 @@
+Tarefas:
+. Atualizar o arquivo README.md explicando o conteúdo do repositório.
+
+Você encontrará um arquivo base index.html no qual você terá que escrever a estrutura do seu projeto e
+vincular seus arquivos de estilo (CSS).
+
+Na pasta css você terá um arquivo base main.css onde você adicionará os estilos necessários para o seu projeto.
+
+Dentro da pasta assets existe a pasta images onde você encontrará todas as imagens necessárias para completar seu projeto.
+
+Você deve atualizar o arquivo README.md explicando o conteúdo do seu repositório.
+
+Este site usa 2 tipos: Montserrat e Lato.
+
+A paleta de cores pode ser obtida inspecionando o site original, mas para economizar tempo, você pode usar o seguinte:
+# 2c3e50, # 18bc9c, # 212529.
+
+Ícones de redes sociais podem ser obtidos em Font Awesome.
+
+Para este desafio, você encontrará certas coisas que você provavelmente ainda não viu na aula (formulários).
+Não se preocupe, temos certeza que você vai enfrentá-lo com sucesso, da mesma forma, aqui estão algumas dicas:
+
+Para o formulário, verifique os rótulos como form, input, button.
+O sublinhado que inclui a estrela nas várias seções do site, na web original é feito com um ícone e pseudo-elementos
+(:after, :before), é um desafio divertido, no entanto, não tente se concentrar nessa parte desde o início já que não é o objetivo principal
+ do desafio :)
+
+Você pode ver o site original para ter uma ideia de como ele deve ser.
+
+Nota: O site original possui certos efeitos e funcionalidades que estão além do escopo deste desafio.
+Concentre-se em obter o layout o mais próximo possível, usando o que você aprendeu na aula;)
+
+Considerar
+Este desafio será avaliado no seguinte:
+. Pixel perfeito (replique o design com precisão)
+. Nomeação de classes, id, etc
+. Identação
+. Arquivo README.md atualizado e corretamente escrito
+. Use comentários para tornar seu código mais legível

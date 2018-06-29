@@ -1,3 +1,48 @@
-/*
- * Estilos de tu proyecto
- */
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+/*box-sizing: border-box significa que a altura e largura do meu elemento será considerada a partir da borda.
+é bom zerar margem e padding para o site não ser afetado pelo padrão de diferentes navegadores*/
+
+nav{
+  position: fixed;
+  background-color: #2c3e50;
+  height: 81px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.mother{
+  background-color: red;
+  width: 95%;
+  height: 81px;
+  display: flex;
+  justify-content: space-around;
+}
+
+.logo{
+  color: #FFFFFF;
+  font-size: 24px;
+  font-weight: 900;
+  font-family: 'Montserrat';
+  padding-top: 25px;
+  padding-right: 200px;
+  display: flex;
+}
+
+ul{
+  list-style-type: none;
+  color: #FFFFFF;
+  font-size: 12px;
+  font-weight: 900;
+  font-family: 'Montserrat';
+  padding-top: 31px;
+  display: flex;
+}
+
+li{
+
+}
